@@ -6,7 +6,7 @@
 
 [google](https://www.google.com/)
 
-![rose](./img/rose.jpg)
+![rose](./img/rose.JPG)
 
 # 제 목 1
 
